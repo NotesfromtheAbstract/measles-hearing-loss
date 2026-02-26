@@ -1,0 +1,5 @@
+scenario,risk,total_expected,total_rounded
+Conservative,0.001,11173.432,"11,173"
+High,0.034,379896.68799999997,"379,897"
+Midpoint,0.0175,195535.06,"195,535"
+Ultra-conservative,5e-4,5586.716,"5,587"
